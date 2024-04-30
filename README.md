@@ -9,7 +9,7 @@ Desafio da [DIO](https://dio.me) com o objetivo de gerar um ebook digital utiliz
 
 <a href="https://github.com/iisrax/Ebook-with-AI/blob/main/Output/Gwent%20-%20A%20Jornada%20do%20Novo%20Jogador.pdf" title="View PDF now"> 📓 Clique aqui para ler</a>
 
-## 🤖🎨 Tecnologias utilizadas no projeto
+## 🤖🎨 Tecnologias Utilizadas no Projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo.Ai](https://leonardo.ai/)
@@ -18,20 +18,15 @@ Desafio da [DIO](https://dio.me) com o objetivo de gerar um ebook digital utiliz
 
 ## 👾 Prompts
 
-> ChatGPT
+> **ChatGPT**
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Título  | Crie um título para um ebook sobre o jogo "Gwent: The Witcher Card Game", o ebook é do nicho de jogo eletrônico online e o subnicho é de jogo de cartas colecionáveis, o título deve ser épico, instigante e curto. O público-alvo: novos jogadores que gostam de jogos de cartas. Liste 5 variações de títulos                                                        |
-| Conteúdo Ebook | crie um ebook abrangente e introdutório para jogadores iniciantes que estão familiarizados com o minigame de Gwent em The Witcher 3: Wild Hunt, mas desejam explorar a versão standalone do jogo. Ele deve cobrir todas as principais diferenças entre os dois jogos, incluindo mudanças nas regras, mecânicas, facções e habilidades exclusivas. {REGRAS}:
-- Uma visão geral das principais diferenças entre Gwent em The Witcher 3 e Gwent standalone, destacando as mudanças em facções, cartas e complexidade.
-- Uma descrição sucinta das seis facções de Gwent, com foco em suas habilidades únicas e exemplos práticos para uso em diferentes estratégias.
-- Crie sugestões para elaboração de decks para iniciantes, adicionando dicas sobre equilíbrio de cartas/cartas especiais/cênario, habilidades, e cartas neutras vs. não-neutras.
-- Estratégias de jogo para iniciantes, incluindo quando passar a rodada, como gerenciar recursos como minério e pó de meteorito, e dicas para aproveitar ao máximo as habilidades exclusivas de cada facção.
-- Exiba ao final do ebook uma conclusão e fale sobre recursos adicionais para aprimorar sua compreensão do jogo, como links para comunidades online, vídeos e streams úteis para melhorar sua habilidade em Gwent. |
+| Conteúdo Ebook | Crie um ebook abrangente e introdutório para jogadores iniciantes que estão familiarizados com o minigame de Gwent em The Witcher 3: Wild Hunt, mas desejam explorar a versão standalone do jogo. Ele deve cobrir todas as principais diferenças entre os dois jogos, incluindo mudanças nas regras, mecânicas, facções e habilidades exclusivas. {REGRAS} **>** Uma visão geral das principais diferenças entre Gwent em The Witcher 3 e Gwent standalone, destacando as mudanças em facções, cartas e complexidade. **>** Uma descrição sucinta das seis facções de Gwent, com foco em suas habilidades únicas e exemplos práticos para uso em diferentes estratégias. > Crie sugestões para elaboração de decks para iniciantes, adicionando dicas sobre equilíbrio de cartas/cartas especiais/cênario, habilidades, e cartas neutras vs. não-neutras. **>** Estratégias de jogo para iniciantes, incluindo quando passar a rodada, como gerenciar recursos como minério e pó de meteorito, e dicas para aproveitar ao máximo as habilidades exclusivas de cada facção. **>** Exiba ao final do ebook uma conclusão e fale sobre recursos adicionais para aprimorar sua compreensão do jogo, como links para comunidades online, vídeos e streams úteis para melhorar sua habilidade em Gwent. |
 
 
-> Leonardo.Ai
+> **Leonardo.Ai**
 
 |  Ação  | Prompt Capa                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -45,7 +40,7 @@ Desafio da [DIO](https://dio.me) com o objetivo de gerar um ebook digital utiliz
  <p align="center">
 <img 
     src="assets/DALL·E witcher.webp"
-    width="350"
+    width="400"
     />
 </p>
 
@@ -61,6 +56,6 @@ Uma experiência interessante, como a ideia do desafio era abordar uma área de 
 ----------
 
 <p align="center">
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1284410/extras/ragnarok_smaller_(1)_(1).gif?t=1693594911">
+<img src="https://github.com/iisrax/Ebook-with-AI/blob/main/assets/ragnarok.gif">
 
 </p>
